@@ -1,0 +1,17 @@
+{
+  "name": "dyi-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "types": "module",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
